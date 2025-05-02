@@ -14,4 +14,4 @@ Clona el repositorio:
 
 ```bash
 git clone https://github.com/juanacvm/matematica.git
-cd calculadora-js
+cd matematica
